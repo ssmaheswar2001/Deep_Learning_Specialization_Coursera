@@ -129,7 +129,48 @@
         - Tensorflow
     5. [Assignment : Tensorflow](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W03_Hyperparameter%20Tuning%2C%20Batch%20Normalization%20and%20Programming%20Framework/01_Assignment%20TensorFlow.ipynb)
 
-## COURSE 3 : [STRUCTURING ML PROJECTS]()
+#### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/FHYV1UEZ77W1)
+</br>
+</br>
+
+## COURSE 3 : [STRUCTURING ML PROJECTS](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/03_Structuring%20ML%20Projects)
+- Week 01 : [ML Strategy](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/03_Structuring%20ML%20Projects/W01_ML%20Strategy)
+    1. [Intro to ML Strategy](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/03_Structuring%20ML%20Projects/W01_ML%20Strategy/01_Intro%20to%20ML%20Strategy.ipynb)
+        - Why ML Strategy
+        - Orthogonalization
+    2. [Setting up our Goal](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/03_Structuring%20ML%20Projects/W01_ML%20Strategy/02_Setting%20Up%20our%20Goal.ipynb)
+        - Single Number Evaluation Metric
+        - Satisficing and optimizing metric
+        - Train/Dev/Tes Distribution
+        - Size of the dev and Test sets
+        - When to change Dev/Test sets and metrics
+    3. [Comparing to Human Level Performance](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/03_Structuring%20ML%20Projects/W01_ML%20Strategy/03_Comparing%20to%20Human%20level%20Performance.ipynb)
+        - Why human-level performance
+        - Avoidable Bias
+        - Understanding human-level performance
+        - Surpassing human-level performance
+        - Improving our model performance
+- Week 02 : [ML Strategy](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/03_Structuring%20ML%20Projects/W02_ML%20Strategy)
+    1. [Error Analysis](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/03_Structuring%20ML%20Projects/W02_ML%20Strategy/01_Error%20Analysis.ipynb)
+        - Carrying out error analysis
+        - Evaluate multiple ideas in parallel
+        - Cleaning up incorrectly labeled data
+        - Error analysis
+        - build our first system quickly, then iterate
+    2. [Mismatched Training and Dev Test set](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/03_Structuring%20ML%20Projects/W02_ML%20Strategy/02_Mismatched%20Training%20and%20Dev%20Test%20set.ipynb)
+        - Training and Testing on Different Distribution
+        - Bias and Variance with mismatched data distribution
+        - Addressing Data Mismatch
+    3. [Learning from Multiple Tasks](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/03_Structuring%20ML%20Projects/W02_ML%20Strategy/03_Learning%20from%20Multiple%20Tasks.ipynb)
+        - Transfer Learning
+        - Multi-task Learning
+    4. [End to End Deep Learning](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/03_Structuring%20ML%20Projects/W02_ML%20Strategy/04_End%20to%20End%20Deep%20Learning.ipynb)
+        - What is End-to-End Deep Learning
+        - Whether to use End-to-End Deep Learning
+
+#### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/92QPSG92NKZ7)
+</br>
+</br>
 
 
 ## COURSE 4 : [CONVOLUTIONAL NEURAL NETWORK]()
