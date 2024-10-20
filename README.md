@@ -65,12 +65,69 @@
     2. [Assignment : Building our Deep Neural Network - Step by Step](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/01_Neural%20Networks%20and%20Deep%20Learning/W04_Deep%20Neural%20Networks/01_Assignment%20Buidling%20our%20Deep%20Neural%20Network.ipynb)
     3. [Assignment : Deep Neural Network for Image Classification : Application](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/01_Neural%20Networks%20and%20Deep%20Learning/W04_Deep%20Neural%20Networks/02_Assignment%20Deep%20Neural%20Network%20-%20Application.ipynb)
         - Cat/not cat classifier
-</br>
 
 #### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/OM3AFF5VZJ8U)
 
-## COURSE 2 : [IMPORVIND]
+## COURSE 2 : [IMPROVING DEEP NN HYPERPARAMETER TUNING, REGULARIZATION AND OPTIMIZATION](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization)
+- Week 01 : [Practical Aspects of Deep Learning](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W01_Practical%20Aspects%20of%20Deep%20Learning)
+    1. [Setting up our ML application](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W01_Practical%20Aspects%20of%20Deep%20Learning/01_Setting%20up%20our%20Machine%20Learning%20Application.ipynb)
+        - Train/Dev/Test sets
+        - Bias/Variance
+        - Basic Recipe for ML
+    2. [Regularizing our Neural Network](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W01_Practical%20Aspects%20of%20Deep%20Learning/02_Regularizing%20our%20Neural%20Network.ipynb)
+        - Regularization
+        - Logistic Regression
+        - Neural Network
+        - Why Regularization Reduces Overfitting
+        - Dropout Regularization
+        - Understanding Dropout
+        - Data Augmentation
+        - Early Stopping
+    3. [Setting up our optimization problem](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W01_Practical%20Aspects%20of%20Deep%20Learning/03_Setting%20up%20our%20Optimization%20Problem.ipynb)
+        - Normalizing inputs
+        - Vanishing/Exploding Gradients
+        - Weight initialization for deep networks
+        - Numerical Approximation of Gradients
+        - Gradient Checking
+        - Gradient checking implementation notes
+    4. [Assignment : Initilization](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W01_Practical%20Aspects%20of%20Deep%20Learning/01_Assignment%20Initialization.ipynb)
+    5. [Assignment : Regularization](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W01_Practical%20Aspects%20of%20Deep%20Learning/02_Assignment%20Regularization.ipynb)
+    6. [Assignment : Gradient Checking](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W01_Practical%20Aspects%20of%20Deep%20Learning/03_Assignment%20Gradient%20Checking.ipynb)
+        - Fraud Detection whenever someone makes a payment
+</br>
 
+- Week 02 : [Optimization Algorithm](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W02_Optimization%20Algorithm)
+    1. [Optimization Algorithms](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W02_Optimization%20Algorithm/01_Optimization%20Algorithms.ipynb)
+        - Mini-batch Gradient Descent
+        - Understanding mini-batch gradient descent
+        - Choosing our mini-batch size
+        - Exponentially weighted averages
+        - Bias correction in exponentially weighted averages
+        - Gradient descent with momentum
+        - RMSProp
+        - Adam Optimization Algorithm
+        - Learning Rate Decay
+        - The problem of local optima
+    2. [Assignment : Optimization Methods](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W02_Optimization%20Algorithm/02_Assignment%20Optimization%20Methods.ipynb)
+</br>
+
+- Week 03 : [Hyperparameter Tuning, Batch Normalization and Programming Framework](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W03_Hyperparameter%20Tuning%2C%20Batch%20Normalization%20and%20Programming%20Framework)
+    1. [Hyperparameter Tuning](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W03_Hyperparameter%20Tuning%2C%20Batch%20Normalization%20and%20Programming%20Framework/01_Hyperparameter%20Tuning.ipynb)
+        - Tuning Process
+        - Using an appropriate scale to pick hyperparamters
+        - Hyperparameter tuning in practice : Pandas vs Caviar
+    2. [Batch Normalization](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W03_Hyperparameter%20Tuning%2C%20Batch%20Normalization%20and%20Programming%20Framework/02_Batch%20Normalization.ipynb)
+        - Normalizing Activations in a network
+        - Fitting Batch Norm into a Neural Network
+        - Why does batch norm work
+        - Batch norm at test
+    3. [Multi-class Classification](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W03_Hyperparameter%20Tuning%2C%20Batch%20Normalization%20and%20Programming%20Framework/03_Multi%20Class%20Classification.ipynb)
+        - Softmax Regression
+        - Train a softmax classifier
+    4. [Intro to Programming Framework](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W03_Hyperparameter%20Tuning%2C%20Batch%20Normalization%20and%20Programming%20Framework/04_Intro%20to%20Programming%20Framework.ipynb)
+        - Deep Learning Frameworks
+        - Tensorflow
+    5. [Assignment : Tensorflow](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W03_Hyperparameter%20Tuning%2C%20Batch%20Normalization%20and%20Programming%20Framework/01_Assignment%20TensorFlow.ipynb)
 
 ## COURSE 3 : [STRUCTURING ML PROJECTS]()
 
