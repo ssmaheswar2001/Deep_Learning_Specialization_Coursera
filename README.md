@@ -267,7 +267,82 @@
         - 1D and 3D generalizations
     3. [Assignment : Face Recognition](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W04_Special%20Applications%20Face%20recognition%20%26%20Neural%20Style%20Transfer/01_Assignmentt%20Face%20Recognition.ipynb)
     4. [Assignment : Art Generation with Neural Style Transfer](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W04_Special%20Applications%20Face%20recognition%20%26%20Neural%20Style%20Transfer/02_Neural%20Style%20Transfer.ipynb)
+
+#### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/VMIBMNIUPY0H)
 </br>
 
+## COURSE 5 : [SEQUENCE MODELS](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/05_Sequence%20Models)
+- Week 01 : [Recurrent Neural Networks](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/05_Sequence%20Models/W01_Recurrent%20Neural%20Networks)
+    1. [Recurrent Neural Networks](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W01_Recurrent%20Neural%20Networks/01_Recurrent%20Neural%20Networks.ipynb)
+        - Why Sequence Models
+        - Notation
+        - Recurrent Neural Network Model 
+        - Forward propagation
+        - Back Propagation through time
+        - Different types of RNN 
+        - Language Model and Sequence Generation
+        - RNN model
+        - Sampling Novel Sequence
+        - Vanishing Gradients with RNNs 
+        - Gated Recurrent Unit(GRU)
+        - Long Short Term Memory (LSTM)
+        - Bidirectional RNN 
+        - Deep RNNs 
+    2. [Assignment : Building our Recurrent Neural Network](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W01_Recurrent%20Neural%20Networks/01_Assignment%20Building%20Our%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
+    3. [Assignment : Character Level Model - Dinosaurus island](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W01_Recurrent%20Neural%20Networks/02_Assignment%20Dinosaur%20Island%20character%20Level%20Language%20Modeling.ipynb)
+        - Character-level model to generate new names using RNN
+</br>
 
-## COURSE 5 : [SEQUENCE MODELS]()
+- Week 02 : [Natural Language Processing & Word Embeddings](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/05_Sequence%20Models/W02_Natural%20Language%20Processing%20%26%20Word%20Embeddings)
+    1. [Introduction to Word Embeddings](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W02_Natural%20Language%20Processing%20%26%20Word%20Embeddings/01_Introduction%20to%20Word%20Embeddings.ipynb)
+        - Word Representation
+        - Featurized Representation : Word Embeddings
+        - Visualizing word Embeddings
+        - Using Word Embeddings
+        - Named Entity Recognition example
+        - Transfer Learning & Word Embeddings
+        - Properties of Word Embeddings
+        - Embedding matrix
+    2. [Learning Word Embeddings Word2Vec & GloVe](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W02_Natural%20Language%20Processing%20%26%20Word%20Embeddings/02_Learning%20Word%20Embeddings%20Word2vec%20%26%20GloVe.ipynb)
+        - Neural Language Model
+        - Word2Vec
+        - Negative Sampling
+        - GloVe Word Vectors 
+    3. [Applications using Word Embeddings](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W02_Natural%20Language%20Processing%20%26%20Word%20Embeddings/03_Applications%20using%20Word%20Embeddings.ipynb)
+        - Sentiment Classification
+        - Debiasing Word Embeddings
+    4. [Assignment : Operations on Word Vectors - Debiasing](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W02_Natural%20Language%20Processing%20%26%20Word%20Embeddings/01_Assignment%20Operations%20on%20Word%20Vectors%20-%20Debiasing.ipynb)
+        - Word Embeddings to solve word anology problem
+    5. [Assignment : Emojify](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W02_Natural%20Language%20Processing%20%26%20Word%20Embeddings/02_Assignment%20Emojify.ipynb)
+</br>
+
+- Week 03 : [Sequence Models & Attention Mechanism](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/05_Sequence%20Models/W03_Sequence%20Models%20%26%20Attention%20Mechanism)
+    1. [Various Sequence to Sequence Architectures](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W03_Sequence%20Models%20%26%20Attention%20Mechanism/01_Various%20Sequence%20To%20Sequence%20Architectures.ipynb)
+        - Basic Models
+        - Sequence to Sequence Model
+        - Image Captioning
+        - Picking the most Likely Sentence
+        - Beam Search
+        - Refinements to Beam Search
+        - Beam width B?
+        - Error Analysis in Beam Search
+        - Error Analysis process 
+        - Attention Model inutition
+        - Attention Model
+    2. [Speech Recognition Audio Data](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W03_Sequence%20Models%20%26%20Attention%20Mechanism/02_Speech%20Recognition%20Audio%20Data.ipynb)
+        - Speech Recognition Problem 
+        - Trigger Word Detection
+    3. [Assignment : Neural Machine Translation](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W03_Sequence%20Models%20%26%20Attention%20Mechanism/01_Assignment%20Neural%20Machine%20Translation.ipynb)
+        - Neural Machine Translation model to translate human-readable dates into machine readable dates.
+    4. [Assignment : Trigger Word Detection](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W03_Sequence%20Models%20%26%20Attention%20Mechanism/02_Assignment%20Trigger%20Word%20Detection.ipynb)
+</br>
+
+- Week 04 : [Transformer Network](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/05_Sequence%20Models/W04_Transformer%20Network)
+    1. [Transformers](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W04_Transformer%20Network/Transformers.ipynb)
+        - Transformer Network Motivation 
+        - Self Attention 
+        - Multi-Head Attention 
+        - Transformer Network 
+    2. [Assignment : Transformer Architecture with TensorFlow](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/05_Sequence%20Models/W04_Transformer%20Network/01_Assignment%20Transformers%20Architecyure%20with%20TensorFlow.ipynb)
+
+#### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/TLGCYF68AG37)
