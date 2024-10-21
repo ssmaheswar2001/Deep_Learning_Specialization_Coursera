@@ -67,6 +67,7 @@
         - Cat/not cat classifier
 
 #### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/OM3AFF5VZJ8U)
+</br>
 
 ## COURSE 2 : [IMPROVING DEEP NN HYPERPARAMETER TUNING, REGULARIZATION AND OPTIMIZATION](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization)
 - Week 01 : [Practical Aspects of Deep Learning](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/02_Improving%20Deep%20NN%20%20Hyperparameter%20Tuing%2C%20Regularization%20and%20optimization/W01_Practical%20Aspects%20of%20Deep%20Learning)
@@ -131,7 +132,6 @@
 
 #### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/FHYV1UEZ77W1)
 </br>
-</br>
 
 ## COURSE 3 : [STRUCTURING ML PROJECTS](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/03_Structuring%20ML%20Projects)
 - Week 01 : [ML Strategy](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/03_Structuring%20ML%20Projects/W01_ML%20Strategy)
@@ -170,10 +170,104 @@
 
 #### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/92QPSG92NKZ7)
 </br>
+
+## COURSE 4 : [CONVOLUTIONAL NEURAL NETWORK](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/04_Convolutional%20Neural%20Networks)
+- Week 01 : [Foundations of Convolutional Neural Networks](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/04_Convolutional%20Neural%20Networks/W01_Fondations%20of%20Convolution%20Neural%20Networks)
+    1. [Convolutional Neural Networks](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W01_Fondations%20of%20Convolution%20Neural%20Networks/01_Convolutional%20Neural%20Networks.ipynb)
+        - Computer Vision
+        - Computer Vision Problems
+        - Edge Detection
+        - Vertical Edge Detection
+        - More Edge Detection
+        - Learning to detect edges
+        - Padding
+        - Valid and Same Convolutions
+        - Strided Convolutions
+        - Convolutions over volume
+        - Convolutions on RGB images
+        - One layer of a Convolutional Network
+        - Types og Layers in a Convolutional network
+        - Pooling Layers
+        - Max Pooling
+        - Average Pooling
+        - CNN Example 
+        - Why Convolutions
+    2. [Assignment : Convolutional Model - Step by Step](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W01_Fondations%20of%20Convolution%20Neural%20Networks/01_Assignment%20Convolutional%20Model%20Step%20by%20Step.ipynb)
+    3. [Assignment : Convolutional Neural Networks Application](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W01_Fondations%20of%20Convolution%20Neural%20Networks/02_Assignment%20Convolutional%20Neural%20Networks%20Application.ipynb)
+        - To identify Sign Language digits using TF Keras Functional API
 </br>
 
+- Week 02 : [Deep Convolutional Models Case Studies](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/04_Convolutional%20Neural%20Networks/W02_Deep%20Convolutional%20Models%20Case%20Studies)
+    1. [Case Studies](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W02_Deep%20Convolutional%20Models%20Case%20Studies/01_Case%20Studies.ipynb)
+        - Why look at case Studies
+        - Classic Network
+        - LeNet - 5
+        - AlexNet
+        - VGG-16
+        - ResNets
+        - Why ResNets work
+        - Network in Networks and 1x1 Convolutions
+        - Inception Network Motivation
+        - Inception Network
+        - MobileNet
+        - Depth-wise Separable Convolution
+        - MobileNet Architecture
+        - EfficientNet
+    2. [Particular Advice for Using ConvNets](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W02_Deep%20Convolutional%20Models%20Case%20Studies/02_Particular%20Advice%20for%20Using%20ConvNets.ipynb)
+        - Transfer Learning
+        - Data Augmentation
+        - Color Shifting
+        - Implementing distorations during Training
+        - State of Computer Vision
+    3. [Assignment : Residual Networks](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W02_Deep%20Convolutional%20Models%20Case%20Studies/01_Assignment%20Residual%20Networks.ipynb)
+        -  Sign Language image classification using ResNets
+    4. [Assignment : Transfer Learning with MobileNet](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W02_Deep%20Convolutional%20Models%20Case%20Studies/02_Assignment%20Transfer%20Learning%20with%20MobileNet.ipynb)
+        - Transfer Learning on Alpaca/Noy Alpace classifier uwsing Functional API and  MobileNet.
+</br>
 
-## COURSE 4 : [CONVOLUTIONAL NEURAL NETWORK]()
+- Week 03 : [Object Detection](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/04_Convolutional%20Neural%20Networks/W03_Object%20Detection)
+    1. [Detection Algorithms](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W03_Object%20Detection/01_Detection%20Algorithms.ipynb)
+        - Object Localization
+        - Classification with Localization
+        - Landmark Detection
+        - Object Detection
+        - Convolutional implementation of Sliding Windows
+        - Bounding Box Predictions
+        - YOLO
+        - Intersection over union
+        - Non-max Suppression
+        - Anchor Boxes
+        - YOLO Algorithm
+        - Region Proposals
+        - Region-CNN
+        - Semantic Segmentation with U-Net
+        - Deep Learning for Semantic Segmentation
+        - Transpose Convolutions
+        - U-Net Architecture
+    2. [Assignment : Car Detection with YOLO](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W03_Object%20Detection/01_Assignment%20%20Car%20Detection%20with%20YOLO.ipynb)
+        - Autonomous Driving : Car Detection using YOLO model
+    3. [Assignment : Image Segmentation with UNet](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W03_Object%20Detection/02_Assignment%20Image%20Segmentation%20with%20U_Net.ipynb)
+        - Semantic image Segmentation for self-driving car dataset
+</br>
+
+- Week 04 : [Special Applications Face recognition Neural Style Transfer](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/tree/main/04_Convolutional%20Neural%20Networks/W04_Special%20Applications%20Face%20recognition%20%26%20Neural%20Style%20Transfer)
+    1. [Face Recognition](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W04_Special%20Applications%20Face%20recognition%20%26%20Neural%20Style%20Transfer/01_Face%20Recognition.ipynb)
+        - Face Verification vs Face Recognition
+        - One shot Learning
+        - Learning a 'similarity' function
+        - Siamese Network
+        - Triplet Loss
+        - Face Verification and Binary Classification
+    2. [Neural Style Transfer](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W04_Special%20Applications%20Face%20recognition%20%26%20Neural%20Style%20Transfer/02_Neural%20Style%20Transfer.ipynb)
+        - What is Neural Style Transfer
+        - What are deep ConvNets Learning
+        - Cost function
+        - Content Cost function
+        - Style cost function
+        - 1D and 3D generalizations
+    3. [Assignment : Face Recognition](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W04_Special%20Applications%20Face%20recognition%20%26%20Neural%20Style%20Transfer/01_Assignmentt%20Face%20Recognition.ipynb)
+    4. [Assignment : Art Generation with Neural Style Transfer](https://github.com/ssmaheswar2001/Deep_Learning_Specialization_Coursera/blob/main/04_Convolutional%20Neural%20Networks/W04_Special%20Applications%20Face%20recognition%20%26%20Neural%20Style%20Transfer/02_Neural%20Style%20Transfer.ipynb)
+</br>
 
 
 ## COURSE 5 : [SEQUENCE MODELS]()
